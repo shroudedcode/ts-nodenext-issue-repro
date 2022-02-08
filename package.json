@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.6.0-dev.20220208"
+  },
+  "private": true
+}
